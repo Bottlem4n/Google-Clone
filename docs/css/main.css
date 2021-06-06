@@ -162,11 +162,11 @@ footer ul{
 }
 
 footer .footer-left{
-    justify-content: left;
+    justify-content: flex-start;
 }
 
 footer .footer-right{
-    justify-content: right;
+    justify-content: flex-end;
 }
 
 footer ul li a{
